@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: arial,sans-serif;
+}
+.reCaptcha{
+    padding: 10px;
+    width: 250px;
+    display: flex;
+    background-color: #f8f8f8;
+    border: 1px solid;
+}
+.reCaptcha input{
+    justify-content: center;
+    zoom: 200%;
+}
+.reCaptchaLogo{
+    display: flex;
+    flex-direction: column;
+    color: gray;
+    font-size: 13px;
+}
+.reCaptchaLogo img{
+    width: 50px;
+    height: auto;
+    margin: auto;
+}
