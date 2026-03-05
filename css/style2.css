@@ -71,7 +71,8 @@ form{
 }
 #entrar {
     width:100%;
-    
+
+    border-radius: 3px;
     padding: 10px;
     background-color: rgb(1, 158, 1);
     border: none;
@@ -103,3 +104,4 @@ a{
     text-decoration: none;
     color: orange;
 }
+
